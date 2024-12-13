@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Maven
+/target/
+*.log
+*.gz
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# System Files
+Thumbs.db
+Desktop.ini
+
